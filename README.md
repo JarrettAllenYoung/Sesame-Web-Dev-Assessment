@@ -20,18 +20,21 @@ Good luck!
  
 Tasks
  
-In the mobile view, hide the social media icons (Facebook, Google, Twitter, YouTube).
-In the tablet (768px - 1024px) and desktop (1024px+) views, make the social icon section “fixed” to the right side of the screen in a 50px wide column. Position it 200px from the top of the screen. Give it a background color and some padding. Center the icons. The end result should look like this:
+1. In the mobile view, hide the social media icons (Facebook, Google, Twitter, YouTube).
 
+2. In the tablet (768px - 1024px) and desktop (1024px+) views, make the social icon section “fixed” to the right side of the screen in a 50px wide column. Position it 200px from the top of the screen. Give it a background color and some padding. Center the icons. The end result should look like this:
 
+3. Beneath the large banner photo area, you will find four callout buttons (Meet Dr. Sesame, Complimentary Consultation, etc). Replace the background photo in the “Why Trust Our Office” section with callout-replacement.jpg found in /resources.
 
+4. Currently, when you hover over one of those four callout buttons, a blue background swipes in behind the text, left to right. Instead, make the blue background swipe in from bottom to top on hover.
 
-Beneath the large banner photo area, you will find four callout buttons (Meet Dr. Sesame, Complimentary Consultation, etc). Replace the background photo in the “Why Trust Our Office” section with callout-replacement.jpg found in /resources.
-Currently, when you hover over one of those four callout buttons, a blue background swipes in behind the text, left to right. Instead, make the blue background swipe in from bottom to top on hover.
-In the “Smile Financing Options” section, increase the height of the “Learn More” button to 56px.
-Rather than simply growing on hover, give the “Learn More” button a more eye-catching animation. Maybe a border draws around the outside of it, maybe a new color fades in from one of the corners, maybe the button tilts to one side and a drop shadow appears, or maybe something different entirely--the choice is yours!
-On the meet-dr-sam-sesame.html page, using CSS, change the doctor’s photo to a circle.
-Using Photoshop, change the color of the word “SESAME” in the header logo to #6e86ba, and swap the resulting image into the header. Try to complete the color swap in a way that minimizes harm to the quality of the lettering (no jagged/blurry edges).
+5. In the “Smile Financing Options” section, increase the height of the “Learn More” button to 56px.
+
+6. Rather than simply growing on hover, give the “Learn More” button a more eye-catching animation. Maybe a border draws around the outside of it, maybe a new color fades in from one of the corners, maybe the button tilts to one side and a drop shadow appears, or maybe something different entirely--the choice is yours!
+
+7. On the meet-dr-sam-sesame.html page, using CSS, change the doctor’s photo to a circle.
+
+8. Using Photoshop, change the color of the word “SESAME” in the header logo to #6e86ba, and swap the resulting image into the header. Try to complete the color swap in a way that minimizes harm to the quality of the lettering (no jagged/blurry edges).
  
 Completing the Test
  
