@@ -24,6 +24,8 @@ Tasks
 
 2. In the tablet (768px - 1024px) and desktop (1024px+) views, make the social icon section “fixed” to the right side of the screen in a 50px wide column. Position it 200px from the top of the screen. Give it a background color and some padding. Center the icons. The end result should look like this:
 
+![](resources/result.png)
+
 3. Beneath the large banner photo area, you will find four callout buttons (Meet Dr. Sesame, Complimentary Consultation, etc). Replace the background photo in the “Why Trust Our Office” section with callout-replacement.jpg found in /resources.
 
 4. Currently, when you hover over one of those four callout buttons, a blue background swipes in behind the text, left to right. Instead, make the blue background swipe in from bottom to top on hover.
